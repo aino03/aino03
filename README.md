@@ -1,9 +1,9 @@
 <h1 align= "center">Hola, soy Ainhoa Bermejo🙃</h1 
-----------------------------------
+
 
 Soy estudiante de 1º de desarrollo de aplicaciones multiplataforma en el **IES Luis Vives**, en formación profesional en Grado Superior, en Leganés.
 Hace un tiempo me empezó a interesar la informática y desde entonces decidí estudiar algo relacionado👩‍💻.
-  ---------------
+  
 Me gusta aprovechar mi tiempo libre leyendo, viendo series o películas o saliendo con mis amigos😉
                                                       
    
